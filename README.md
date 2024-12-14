@@ -1,0 +1,2 @@
+# mydb
+Shadowverse Evolve deckbuilder
